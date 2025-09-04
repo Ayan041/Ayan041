@@ -3,10 +3,10 @@
 
 <h1>💫 About Me:</h1>
 
-🔭  MERN Stack Web Developer<br>
+🔭 <b> MERN Stack Web Developer</b><br>
 🌱 I’m currently learning : **SprintBoot**<br>
 👯 I’m looking to collaborate on Web & Backend Projects<br>
-💬 Ask me about Web Development<br>
+💬 Ask me about <b>Web Development</b><br>
 📫 How to reach me: **ayanjana300702@gmail.com**<br>
 😄 Pronouns: **Ayan Jana**<br>
 ⚡ Fun fact: I Love Tech and Tech Love Me<br>
