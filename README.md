@@ -1,6 +1,7 @@
 ## Hi there 👋 Ayan Jana
 
-**Ayan041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🎉  
+This is my **Ayan041** repository, where I share projects, ideas, and a little bit of creativity 💡✨  
 
 Here are some ideas to get you started:
 
